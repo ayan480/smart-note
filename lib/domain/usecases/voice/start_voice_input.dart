@@ -3,6 +3,7 @@ import '../../../core/error/failures.dart';
 import '../../../core/usecases/usecase.dart';
 import '../../repositories/voice_repository.dart';
 
+/// Use case for starting voice input
 class StartVoiceInput implements UseCase<void, NoParams> {
   final VoiceRepository repository;
 

@@ -64,6 +64,7 @@ dependencies:
   
   # Sharing
   share_plus: ^10.1.2
+  receive_sharing_intent: ^1.8.0
   
   # Call Recording (Phone State)
   phone_state: ^3.0.1
